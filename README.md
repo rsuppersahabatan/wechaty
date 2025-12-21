@@ -2,6 +2,7 @@
 
 [![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://wechaty.js.org)
 
+[Ship.Fail](https://ship.fail) [PreAngel](https://PreAngel.AI)
 [![Downloads](https://img.shields.io/npm/dm/wechaty.svg?style=flat-square)](https://www.npmjs.com/package/wechaty)
 [![GitHub stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?label=github%20stars)](https://github.com/wechaty/wechaty)
 [![Docker Pulls](https://img.shields.io/docker/pulls/wechaty/wechaty.svg?maxAge=2592000)](https://hub.docker.com/r/wechaty/wechaty/)
